@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+	 }
+	
+	div{
+		
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin-top: 10vh;
+		width: 100vw;
+		height: 30vh;
+		background-color: #61FF00;
+		color: #000;
+		font: bold 36px sans-serif;
+	}
